@@ -1,0 +1,17 @@
+# Pure-and-Applied-Research-Articles
+In this repository there are several scientific articles categorized based on the type of research: pure research (fundamental) and applied research.
+
+## Pure Research
+| **No** | **Title** | **Description** | **Link** |
+| --- | --- | --- | --- |
+| 1 | **Comparative Analysis of Image Processing Schemes to Register Motion from Video of Vibrating Cutting Tools** | Focuses on comparing image processing schemes for cutting tool motion analysis. Emphasizes theoretical evaluation and methodological comparison. | [Comparative Analysis of Image Processing Schemes to Register Motion from Video of Vibrating Cutting Tools - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S221282712300971X#abs0001) |
+| 2 | **Vector Database Management Systems: Fundamental concepts, use-cases, and current challenges** | Discusses theoretical concepts of vector databases, addressing challenges and providing an overview. | [Vector database management systems: Fundamental concepts, use-cases, and current challenges - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1389041724000093) |
+| 3 | **Data Mining in Product Service Systems Design: Literature Review and Research Questions** | Provides a literature review on data mining in PSS design, identifying research gaps and proposing theoretical research questions. Aims to advance knowledge without immediate practical application. | [Data Mining in Product Service Systems Design: Literature Review and Research Questions - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2212827117302809) |
+
+
+## Applied Research
+| **No** | **Title** | **Description** | **Link** |
+| --- | --- | --- | --- |
+| 1 | **A secure healthcare 5.0 system based on blockchain technology entangled with federated learning technique** | Focuses on a practical solution for healthcare monitoring using blockchain and federated learning, addressing data privacy and improving patient care. Achieves high accuracy in disease prediction and intrusion detection. | [A secure healthcare 5.0 system based on blockchain technology entangled with federated learning technique - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0010482522007417#sec6) |
+| 2 | **Data mining implementations for determining root causes and precautions of occupational accidents in underground hard coal mining** | Uses data mining techniques to analyze accidents in underground mining, providing practical suggestions for improving safety measures. Implements algorithms with high accuracy for classification and prediction. | [Data mining implementations for determining root causes and precautions of occupational accidents in underground hard coal mining - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2093791124000696#abs0010) |
+| 3 | **End-to-End Solution for Automatic Beverage Stock Detection in Supermarkets Based on Image Processing and Convolutional Neural Networks** | Develops a solution using image processing and CNNs to monitor supermarket shelves and detect stock shortages. Integrates with mobile apps and achieves over 98% accuracy in stock detection. | [End-to-End Solution for Automatic Beverage Stock Detection in Supermarkets Based on Image Processing and Convolutional Neural Networks - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2666307424000342#abs0002) |
